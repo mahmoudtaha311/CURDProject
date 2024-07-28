@@ -2,7 +2,7 @@ Project Description: CRUD Operation Application
 Overview
 The CRUD Operation Application is designed to demonstrate the fundamental operations that form the backbone of any database-driven application. These operations include Create, Read, Update, and Delete (CRUD) functions, which are essential for managing data within a database. This project aims to provide a user-friendly interface for performing these operations, ensuring efficient data management and manipulation.
 
-Objectives
+Objectives:
 Create: Allow users to add new entries to the database.
 Read: Enable users to view and retrieve existing entries from the database.
 Update: Provide functionality for users to modify existing entries.
