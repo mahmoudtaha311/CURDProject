@@ -30,3 +30,6 @@ ORM: Entity Framework for simplifying database operations and enabling seamless 
 Dashboard: A centralized dashboard that displays an overview of the data and provides quick access to CRUD functionalities.
 
 Form Validation: Client-side and server-side validation to ensure data integrity and provide user feedback.
+
+![Screenshot 2024-07-28 150109](https://github.com/user-attachments/assets/f1cad423-0beb-4819-be33-6219e18960f5)
+
